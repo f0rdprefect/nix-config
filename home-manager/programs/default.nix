@@ -9,6 +9,6 @@
     ./git.nix
     ./media.nix
     ./xdg.nix
-#    ./neovim
+    ./neovim
   ];
 }
